@@ -4,8 +4,8 @@ target/
 .settings
 *.swp
 test-output
-.idea
-*.iml
+#.idea
+#*.iml
 .metadata
 *.ipr
 bin/
